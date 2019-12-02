@@ -1,0 +1,37 @@
+<resources>
+    <string name="app_name">Govatri Hotels</string>
+    <string name="nombre">Nombre</string>
+    <string name="correoElectronico">Correo Electronico</string>
+    <string name="apellidos">Apellidos</string>
+    <string name="contraseña">Contraseña</string>
+    <string name="login_error_vacio">Los campos no pueden estar vacios</string>
+    <string name="login_error_contraseña">Las contraseñas no coinciden</string>
+    <string name="register_error_alphabetic">Solo caracteres alfabéticos</string>
+    <string name="register_error_alphanumeric">Solo caracteres alfanuméricos</string>
+    <string name="login_error">El correo o la contraseña son incorrectos</string>
+    <string name="login_error_longitud">Longitud incorrecta</string>
+    <string name="nombrehotel">Nombre del hotel</string>
+    <string name="list_hotel_exit">Cerrar sesión</string>
+    <string name="list_hotel_crear">Registrar nuevo hotel</string>
+    <string name="list_hotel_info">Informacion de los hotels</string>
+    <string name="tipohotel">Tipo de hotel</string>
+    <string name="descripcionhotel">Descripción del hotel</string>
+    <string name="ubicacionhotel">Ubicación del hotel</string>
+    <string name="telefonohotel">Telefono del hotel</string>
+    <string name="crear">Crear</string>
+    <string name="borrarhotel">Borrar hotel</string>
+    <string name="Register_error_contraseña">Las contraseñas son diferentes</string>
+    <string name="title_act">Información</string>
+    <string name="title_tlp">Telefono</string>
+    <string name="client_service_tlp">665133149</string>
+    <string name="description_tlp">Telefono para poder reservar</string>
+    <string name="title_email">Correo Electronico</string>
+    <string name="email">christianraulamo24@gmail.com</string>
+    <string name="title_location">Ubicacion del hotel</string>
+    <string name="location">¿Donde encontrarlo?</string>
+    <string name="client_service">client_service</string>
+    <string name="support">support</string>
+    <string name="support_tlp">support_tlp</string>
+    <string name="description_support">description_support</string>
+    <string name="masInfo">Más Información</string>
+</resources>
