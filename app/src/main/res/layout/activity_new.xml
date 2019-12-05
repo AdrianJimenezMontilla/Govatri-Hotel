@@ -5,7 +5,7 @@
     xmlns:tools="http://schemas.android.com/tools"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
-    tools:context="com.example.adri.crao_final.NewActivity">
+    tools:context="com.example.adri.ajm.NewActivity">
 
     <EditText
         android:id="@+id/newNameRestaurant"

@@ -1,0 +1,47 @@
+{
+  "hotels" : {
+    "-Lv6KheFNZIJckTi6F1L" : {
+      "descripcion" : "Until bueno hotel al lado de PTA",
+      "foto" : "https://firebasestorage.googleapis.com/v0/b/proyectoandroidstudio-ma-ccd9d.appspot.com/o/posadasEspana.jpg?alt=media&token=eefbe333-17c3-437a-bbca-a70401fbe222",
+      "nombre" : "Posadas de España",
+      "telefono" : "951233000",
+      "tipo" : "Posadas 3 estrellas",
+      "ubicacion" : "geo:0,0?q=Posadas de España"
+    },
+    "-Lv6LE3KTunVjuAHhrTH" : {
+      "descripcion" : "Hotel en el centro de Malaga",
+      "foto" : "https://firebasestorage.googleapis.com/v0/b/proyectoandroidstudio-ma-ccd9d.appspot.com/o/ibis.jpg?alt=media&token=34ac87e2-74f5-4335-89ab-8da03f019c43",
+      "nombre" : "Hotel Ibis",
+      "telefono" : "952070741",
+      "tipo" : "Hotel de 3 estrellas",
+      "ubicacion" : "geo:0,0?q=Hotel Ibis"
+    },
+    "-Lv6Lgwz3G_kr7Z9PR91" : {
+      "descripcion" : "El hotel has lujoso de Málaga",
+      "foto" : "https://firebasestorage.googleapis.com/v0/b/proyectoandroidstudio-ma-ccd9d.appspot.com/o/miramar.jpg?alt=media&token=ae6e9e0c-ddef-4608-8925-d620348bc38d",
+      "nombre" : "Gran hotel Miramar",
+      "telefono" : "952603000",
+      "tipo" : "Hotel de 5 estrellas",
+      "ubicacion" : "geo:0,0?q=Gran hotel Miramar"
+    },
+    "-Lv6MJH43LCYk_EUoAfP" : {
+      "descripcion" : "Hotel my turistico ubicado en Marbella",
+      "foto" : "https://firebasestorage.googleapis.com/v0/b/proyectoandroidstudio-ma-ccd9d.appspot.com/o/marriot.jpg?alt=media&token=3a116b89-086a-4a74-b9c9-b630ff8ac895",
+      "nombre" : "Marriott's Marbella Resort",
+      "telefono" : "952769600",
+      "tipo" : "Hotel de 4 estrellas",
+      "ubicacion" : "geo:0,0?q=Marriott's Marbella Resort"
+    }
+  },
+  "novedades" : {
+    "publicacion" : "App desarrollada para proyecto de Android 2º DAM"
+  },
+  "usuario" : {
+    "2K9aAmETepZmUaS1bGPN9fH1Vff1" : {
+      "apellidos" : "maloha",
+      "email" : "alohaiano@gmail.com",
+      "idUsuario" : "2K9aAmETepZmUaS1bGPN9fH1Vff1",
+      "nombre" : "aloha"
+    }
+  }
+}
